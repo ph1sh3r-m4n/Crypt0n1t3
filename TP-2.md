@@ -1,5 +1,5 @@
-# Crypt0n1t3
-Welp, gotta make a few writeups, don't I?  
+# Forensics
+*Chaliye shutu karte hai* 
 ## Macrohard Weakedge  
 Okay, SO for this one, I first converted the pptm file into a zip file(def rem about the bin file ques from the cryptic hunt).  
 Then I just started to look into every folder just to find the file real quick and found a bin file, but I ended up wasting a hell lot of time on it just to know that no flag exists inside it.  
