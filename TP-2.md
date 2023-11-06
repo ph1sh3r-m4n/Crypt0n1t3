@@ -5,7 +5,7 @@ Okay, SO for this one, I first converted the pptm file into a zip file(def rem a
 Then I just started to look into every folder just to find the file real quick and found a bin file, but I ended up wasting a hell lot of time on it just to know that no flag exists inside it.  
 Then, tired of it, I tried to look into other files and folders and then I found this which very likely was to contain the flag!.  
 ![Screenshot 2023-11-06 200937](https://github.com/SuniCoder9567/Crypt0n1t3/assets/89261516/552a00f1-aee7-412b-aa80-f836645d241c)  
-_The hidden folder was looking like a ray of hope and I ended up opening it and guess what I cracked it!_  
+_The hidden file was looking like a ray of hope and I ended up opening it and guess what I cracked it!_  
 
 
 
