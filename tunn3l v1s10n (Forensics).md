@@ -1,4 +1,4 @@
-![image](https://github.com/SuniCoder9567/Crypt0n1t3/assets/89261516/936ff90e-ea27-4275-b4ff-342e361eaac5)So for this one I had no clue cuz the metafile I was opening was unreadable.  
+So for this one I had no clue cuz the metafile I was opening was unreadable.  
 Then I tried to change the file format like t zip files and all but that did not work either for me.  
 After that I tried to change it into jpg format and to my surprise an image opened up that could lead me to the flag.  
 ![Screenshot 2023-11-14 235723](https://github.com/SuniCoder9567/Crypt0n1t3/assets/89261516/7e96d9c5-a7af-42c3-9468-2e47a92a8d07)  
