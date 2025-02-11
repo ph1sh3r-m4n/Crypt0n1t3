@@ -213,6 +213,10 @@ Subnet 4: 192.168.1.192/26 (192-255)
 ```
 
 ## VLAN Configuration (Day 16)
+### VLAN basics:
+
+Separates broadcast domains
+Requires router for inter-VLAN communication
 
 ### Basic VLAN Setup
 ```bash
@@ -225,7 +229,11 @@ SW1#show vlan brief
 ```
 
 ## Trunk Ports (Day 17)
+### Key concepts:
 
+Carries multiple VLAN traffic
+Uses 802.1Q tagging
+Adds 4-byte tag between Source and Type fields
 ### Configuration Example
 ```bash
 SW1(config-if)#switchport mode trunk
@@ -241,3 +249,10 @@ no switchport
 ip routing
 interface vlan 10
 ip address 10.0.0.62 255.255.255.192
+```
+### SVI Configuration
+```bash
+Vlan10                 10.0.0.62       YES manual up                    up 
+Vlan20                 10.0.0.126      YES manual up                    up 
+Vlan30                 10.0.0.190      YES manual up                    up
+```
